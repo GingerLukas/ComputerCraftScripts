@@ -4,6 +4,8 @@
         "gps",
         "turtle",
         "shell",
-        "read"
+        "read",
+        "peripheral",
+        "rednet"
     ]
 }

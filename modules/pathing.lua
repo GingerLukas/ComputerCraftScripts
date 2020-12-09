@@ -4,7 +4,7 @@ end
 Pathing = {
     home = vector.new(gps.locate(2)),
     face = -1,
-    TRAVELING_Y = 90
+    TRAVELING_Y = 128
 }
 
 function Pathing.set_dir(dir)
